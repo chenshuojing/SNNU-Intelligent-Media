@@ -1,0 +1,6 @@
+# 张建中教授智能传播研究专用  
+print("Hello Professor Zhang!")  
+print("数据加载中...")  
+# 这里是假装很厉害的注释  
+for i in range(10):  
+    print(f"正在分析第{i}条舆情...")  
